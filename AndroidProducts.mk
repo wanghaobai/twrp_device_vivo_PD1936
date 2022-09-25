@@ -8,5 +8,4 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_PD1936.mk
 
-COMMON_LUNCH_CHOICES := \   
-    twrp_PD1936-eng
+COMMON_LUNCH_CHOICES :=twrp_PD1936-eng
